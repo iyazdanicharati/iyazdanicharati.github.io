@@ -1,11 +1,27 @@
-# Draco
-A free PSD & HTML resume template.
-See the demo [here](http://draco.afnizarnur.com/) and download the latest release [here](https://github.com/afnizarnur/draco/releases).
-![Draco](https://cloud.githubusercontent.com/assets/4648648/26038614/72fe3772-3936-11e7-8f88-3781aea67bdc.png)
+<div align="center">
 
-## License
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
+# Hi, I'm Iman Yazdani Cherati 👋
 
-Draco is licensed under Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Which means that you are free to copy and redistribute the material in any medium or format and remix, transform, and build upon the material.
+### Full-Stack · Mobile · UI/UX Developer
 
-This template is designed and developed by Afnizar Nur Ghifari.
+PHP ecosystems, modern JS frameworks, native & cross-platform apps — with a strong eye for design.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iyazdanicharati)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iyazdanicharati)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iyazdanicharati@gmail.com)
+[![Buy me a coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://iyazdani.ir/donate)
+
+</div>
+
+---
+
+### 🧑‍💻 About me
+
+- 💻 Full-stack developer across **PHP**, **JavaScript**, and **mobile** stacks
+- 🎨 CSS designer · **UI/UX** · **Figma**
+- 📱 Android & **React Native** apps
+- 🚀 Shipping web products, payment systems, and practical tools
+- 🐍 Exploring **Python** (amateur) alongside daily production work
+- ☕ Support my work: **[Buy me a coffee](https://iyazdani.ir/donate)**
+
+---
